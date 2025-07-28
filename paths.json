@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wkndrd/language-masters/en:/",
-    "/content/wkndrd/language-masters/en/:/",
-    "/content/wkndrd/language-masters/en/:/en/",
-    "/content/wkndrd/configuration:/.helix/config.json",
-    "/content/wkndrd/metadata:/metadata.json",
-    "/content/wkndrd/redirects:/redirects.json",
-    "/content/wkndrd/placeholders:/placeholders.json",
-    "/content/wkndrd.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/wkndrdtest/language-masters/en:/",
+    "/content/wkndrdtest/language-masters/en/:/",
+    "/content/wkndrdtest/language-masters/en/:/en/",
+    "/content/wkndrdtest/configuration:/.helix/config.json",
+    "/content/wkndrdtest/metadata:/metadata.json",
+    "/content/wkndrdtest/redirects:/redirects.json",
+    "/content/wkndrdtest/placeholders:/placeholders.json",
+    "/content/wkndrdtest.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wkndrd/",
-    "/content/dam/wkndrd/"
+    "/content/wkndrdtest/",
+    "/content/dam/wkndrdtest/"
   ]
 }
